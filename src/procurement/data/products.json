@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "night vision",
+        "type": "vision",
+        "quantity": 200,
+        "pricePerUnit": 1500,
+        "hasImage": false
+    },
+    {
+        "id": 2,
+        "name": "m4",
+        "type": "weapon",
+        "quantity": 250,
+        "pricePerUnit": 1700,
+        "hasImage": false
+    },
+    {
+        "id": 3,
+        "name": "drone",
+        "type": "Aircraft",
+        "quantity": 150,
+        "pricePerUnit": 2000,
+        "hasImage": false
+    }
+]
